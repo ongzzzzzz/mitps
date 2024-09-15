@@ -68,7 +68,7 @@ class Node {
         this.lat = lat;
         this.num = label;
 
-        adjlist.set(this, []);
+        // adjlist.set(this, []);
     }
 
     getPosition() {
